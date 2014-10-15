@@ -1,0 +1,17 @@
+permalink: /:title 
+markdown: kramdown
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+paginate: 10
+pygments: true
+
+title : Mobile Essentials
+tagline: Delightful C# Mobile
+author :
+  name : Daniel Cazzulino
+  email : daniel@cazzulino.com
+  github : kzu
+  twitter : kzu
+  feedburner : MobileEssentials
+
+production_url : http://www.mobileessentials.org
